@@ -52,4 +52,6 @@ After building the model architecture, we then train the model using model.fit()
 ## Testing Results
 ![image](https://user-images.githubusercontent.com/106440078/194111046-f3dfa947-31e5-4f3c-aca0-12988a14a9a6.png)
 
+## Tkinter APP Interface
+![image](https://user-images.githubusercontent.com/106440078/194128811-6cd2addf-5639-4546-ba45-d96f5ef6350c.png)
 
