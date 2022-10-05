@@ -70,7 +70,7 @@ def classify(file_path):
     image = numpy.array(image)
     pred = (model.predict([image])[0] > 0.5).astype("int32")
     sign = classes[numpy.argmax(pred,axis=0)+1]
-    print(sign)
+    print(sign) 
     label.configure(foreground='#011638', text=sign) 
 
 def show_classify_button(file_path):
